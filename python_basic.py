@@ -111,6 +111,11 @@ char1 = "Aminul islam"
 char2 = "Al Imran"
 print("Ami" in char1 ) # Check string
 print("imran" not in char2 )
+
+if "Aminul" in char1:
+   print("paichi")
+else:
+ print("painay")    
 #------------------------------------------------------------------------------
 
 

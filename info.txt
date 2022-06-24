@@ -1,0 +1,10 @@
+
+Your first number : 40.0
+Your first number : 30.0
+Your result : 70.0
+Your first number : 40.0
+Your first number : 30.0
+Your result : 70.0
+Your first number : 60.0
+Your first number : 33.0
+Your Result : 27.0
